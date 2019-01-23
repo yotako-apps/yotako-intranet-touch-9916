@@ -1,0 +1,128 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .artboard2row0 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 374px;
+    height: 166px;
+    justify-content: space-between
+  }
+  .style20 {
+    margin-top: 1px;
+    width: 119px;
+    height: 165px
+  }
+  .style14,
+  .style8 {
+    width: 119px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style2 {
+    margin-left: 0;
+    margin-top: 16px;
+    width: 375px;
+    height: 100px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .artboard2row0 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 766px;
+    height: 340px;
+    justify-content: space-between
+  }
+  .style20 {
+    margin-top: 2px;
+    width: 244px;
+    height: 338px
+  }
+  .style14,
+  .style8 {
+    width: 244px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style2 {
+    margin-left: 0;
+    margin-top: 33px;
+    width: 768px;
+    height: 205px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .artboard2row0 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 918px;
+    height: 407px;
+    justify-content: space-between
+  }
+  .style20 {
+    margin-top: 2px;
+    width: 292px;
+    height: 405px
+  }
+  .style14,
+  .style8 {
+    width: 292px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style2 {
+    margin-left: 0;
+    margin-top: 39px;
+    width: 920px;
+    height: 245px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .artboard2row0 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1197px;
+    height: 531px;
+    justify-content: space-between
+  }
+  .style20 {
+    margin-top: 3px;
+    width: 381px;
+    height: 528px
+  }
+  .style14,
+  .style8 {
+    width: 381px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style2 {
+    margin-left: 0;
+    margin-top: 51px;
+    width: 1200px;
+    height: 320px
+  }
+}
